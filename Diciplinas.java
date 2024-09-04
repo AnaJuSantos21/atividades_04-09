@@ -1,0 +1,19 @@
+package curso04_09_enum;
+
+public enum Diciplinas {
+	
+	HISTORIA,
+	FILOSOFIA,
+	SOCIOLOGIA,
+	PORTUGUES,
+	MATEMATICA,
+	FISICA,
+	EDUCAÇÃO_FISICA,
+	INGLES,
+	QUIMICA,
+	BIOLOGIA,
+	GEOGRAFIA,
+	ARTE,
+	TOPICOS_AVANÇADOS
+
+}

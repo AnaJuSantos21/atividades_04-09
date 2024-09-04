@@ -1,0 +1,26 @@
+package curso04_09_enum;
+
+public enum Nomes {
+	
+	ANA,
+	MARIA,
+	RAFA,
+	TAINA,
+	GIOVANA,
+	JOÃO,
+	PEDRO,
+	PAULO,
+	DIOGO,
+	JOSÉ,
+	KAUA,
+	LUCAS,
+	MELISSA,
+	JULY,
+	AMANDA,
+	VICTOR,
+	FREITAS,
+	ARTHUR,
+	THIAGO,
+	NICOLAS
+
+}

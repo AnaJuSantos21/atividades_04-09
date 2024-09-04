@@ -1,0 +1,18 @@
+package curso04_09_enum;
+
+public enum Mes {
+	
+	JANEIRO,
+	FEVEREIRO,
+	MARCO,
+	ABRIL,
+	MAIO,
+	JUNHO,
+	JULHO,
+	AGOSTO,
+	SETEMBRO,
+	OUTUBRO,
+	NOVEMBRO,
+	DEZEMBRO
+
+}
